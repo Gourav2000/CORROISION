@@ -1,0 +1,6 @@
+path: /home/aravind/Documents/data_projects/Code/freelance/corrosion_project/labelled_images
+train: train
+val: val
+
+nc: 1
+names: ["Corrosion"]
